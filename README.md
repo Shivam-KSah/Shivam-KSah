@@ -1,7 +1,7 @@
 ## Hi there 👋
 
 <!-- Centered Header with Typing Animation -->
-<h1 align="center">Hi 👋, I'm Shivam</h1>
+<h1 align="center">I'm Shivam</h1>
 <h3 align="center">⚡ Machine Learning & Deep Learning Enthusiast | 💻 DSA & CP Explorer</h3>
 
 <p align="center">
