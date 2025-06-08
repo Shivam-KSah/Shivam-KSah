@@ -15,7 +15,7 @@
 - 🎓 I'm passionate about **Machine Learning, Deep Learning, and Computer Vision**
 - 🤖 I build bots and real-time systems using **ONNX**, **OpenCV**, and **MediaPipe**
 - 💡 I enjoy solving DSA problems and competing in **CP contests**
-- 🧠 Learning from **Nitish Rajput's Deep Learning playlist** & **100 Days of ML**
+- 🧠 Completed **CampusX Deep Learning playlist** & **100 Days of ML**
 - 🔭 Currently working on ML-based robotics & vision-driven applications
 
 ---
@@ -58,19 +58,13 @@
 
 ---
 
-### 🧠 Competitive Programming
-
-- 🟡 **LeetCode**: [leetcode.com/your-id](https://leetcode.com/)
-- 🟢 **Codeforces**: [codeforces.com/profile/your-id](https://codeforces.com/)
-- 🔵 **CodeChef**: [codechef.com/users/your-id](https://codechef.com)
-
 ---
 
 ### 📫 Connect with Me
 
 <p align="center">
   <a href="https://www.linkedin.com/in/your-linkedin-id"><img src="https://img.shields.io/badge/-LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
-  <a href="mailto:youremail@example.com"><img src="https://img.shields.io/badge/-Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
+  <a href="mailto:shivam25krsah@gmail.com"><img src="https://img.shields.io/badge/-Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
   <a href="https://github.com/Shivam-KSah"><img src="https://img.shields.io/badge/-GitHub-171515?style=for-the-badge&logo=github&logoColor=white"/></a>
 </p>
 
